@@ -4,6 +4,10 @@ A simple Python application for recording household expenses, generating monthly
 
 This project was developed as part of the ProfessionAI Data Engineering course.
 
+## Google Colab notebook
+
+Open the public notebook in Google Colab: [Household Expense Manager](https://colab.research.google.com/drive/1EeIIRCJNHug89ESmoZiGB_sLBeDMUC9J?usp=sharing)
+
 ## Features
 
 - Add expenses with date, description, and amount
