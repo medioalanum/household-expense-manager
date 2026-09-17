@@ -1,9 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" role="img" aria-labelledby="title">
   <title id="title">Household Expense Manager</title>
   <rect width="900" height="220" rx="28" fill="#2a1d1b"/>
-  <path d="m55 110 65-55 65 55v72H55v-72Z" fill="#f09a58"/>
-  <path d="m38 111 82-70 82 70" fill="none" stroke="#ffce9f" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/>
-  <path d="M84 152h72" stroke="#fff5e9" stroke-linecap="round" stroke-width="13"/><path d="m95 152 18-20 16 11 27-34" fill="none" stroke="#fff5e9" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
-  <text x="240" y="112" fill="#fff9f2" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" letter-spacing="-2">Household Expense</text>
-  <text x="243" y="160" fill="#ffc38d" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="600">MANAGER</text>
+  <g transform="translate(108 22)">
+    <path d="m55 88 65-55 65 55v72H55V88Z" fill="#f09a58"/>
+    <path d="m38 89 82-70 82 70" fill="none" stroke="#ffce9f" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/>
+    <path d="M84 130h72" stroke="#fff5e9" stroke-linecap="round" stroke-width="13"/><path d="m95 130 18-20 16 11 27-34" fill="none" stroke="#fff5e9" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+  </g>
+  <text x="535" y="110" fill="#fff9f2" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" letter-spacing="-2" text-anchor="middle">Household Expense</text>
+  <text x="535" y="158" fill="#ffc38d" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="600" text-anchor="middle">MANAGER</text>
 </svg>
