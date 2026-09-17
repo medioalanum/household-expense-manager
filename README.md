@@ -1,4 +1,13 @@
-# Household Expense Manager
+<p align="center">
+  <img src="assets/household-expense-manager-logo.svg" alt="Household Expense Manager" width="620">
+</p>
+
+<p align="center"><em>Track household expenses and see monthly totals at a glance.</em></p>
+
+<p align="center">
+  <a href="https://colab.research.google.com/drive/1EeIIRCJNHug89ESmoZiGB_sLBeDMUC9J?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Google Colab"></a>
+  <img src="https://img.shields.io/badge/course-ProfessionAI-f09a58?style=flat-square" alt="ProfessionAI course project">
+</p>
 
 A simple Python application for recording household expenses, generating monthly reports, and identifying the ten highest transactions.
 
