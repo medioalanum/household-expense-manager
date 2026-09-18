@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/household-expense-manager-logo.svg" alt="Household Expense Manager" width="620">
+  <img src="assets/household-expense-manager-logo.png" alt="Household Expense Manager" width="620">
 </p>
 
 <p align="center"><em>Track household expenses and see monthly totals at a glance.</em></p>
